@@ -10,4 +10,4 @@ PyInger: A simple Python script that pings a lists of hosts and sends out email 
 
 ## License
 
-MIT License
+This project is licensed under the terms of the MIT license.
